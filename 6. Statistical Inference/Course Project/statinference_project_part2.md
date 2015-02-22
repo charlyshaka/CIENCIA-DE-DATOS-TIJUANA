@@ -1,7 +1,7 @@
 ---
 title: 'Statistical Inference Course Project, Part 2: Basic Inferential Data Analysis'
-author: "Carlos Lara Verduzco"
-output:
+author: "Carlos  Lara Verduzco
+"output:
   html_document: default
   pdf_document:
     fig_height: 3
