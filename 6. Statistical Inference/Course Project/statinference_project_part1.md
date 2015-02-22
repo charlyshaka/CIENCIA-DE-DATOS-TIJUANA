@@ -1,6 +1,6 @@
 ---
 title: 'Statistical Inference Course Project, Part 1: Simulation Exercises'
-author: "Sefa Kilic"
+author: "Carlos Lara Verduzco"
 output:
   html_document: default
   pdf_document:
