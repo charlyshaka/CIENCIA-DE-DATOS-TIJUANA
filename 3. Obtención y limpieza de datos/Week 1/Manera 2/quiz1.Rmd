@@ -1,4 +1,4 @@
----
+par(mfrow = c(2, 1), mar = c(4, 4, 2, 1))---
 title: "Week 1 Quiz Hard Mode"
 author: "Carlos Antonio Lara Verduzco"
 date: "Wednesday, February 25, 2015"
