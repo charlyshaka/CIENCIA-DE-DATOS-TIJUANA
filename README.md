@@ -2,7 +2,9 @@
 Esto es la Carpeta de Ciencia de Datos  en donde se desarrollaron a 9 cursos para la 
 Especializacion de Cientifico de Datos.
 
+## Curso 1
 
+* [La caja de herramientas del científico de datos](./1. La caja de herramientas del científico de datos/)
 
 ## Curso 2
 
