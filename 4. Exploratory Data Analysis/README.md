@@ -1,4 +1,5 @@
-Exploratory_Data_Analysis
-=========================
-
-This is a repository for any and all code written for the Exploratory Data Analysis Coursera course through Johns Hopkins University.
+===
+#Analisis Exploratorios de Datos
+===
+> El principal motivo de este curso es el analisis de Datos en base ala contruccion de Graficas por medio 
+de varios paquetes de R 
