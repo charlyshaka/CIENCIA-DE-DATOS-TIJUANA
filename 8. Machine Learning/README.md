@@ -1,22 +1,4 @@
-﻿# Especializacion de Ciencias de Datos COURSERA
-Esto es la Carpeta de Ciencia de Datos  en donde se desarrollaron a 9 cursos para la 
-Especializacion de Cientifico de Datos.El científico de datos es una nueva profesión que hoy es considerada clave en el mundo de las tecnologías y es una de las mejor pagadas. Se trata de una persona formada en las ciencias matemáticas y las estadísticas que domina la programación y sus diferentes lenguajes, ciencias de la computación y analítica.
+﻿# Aprendizaje automático  COURSERA
+
+>En ciencias de la computación el aprendizaje automático o aprendizaje de máquinas es una rama de la inteligencia artificial cuyo objetivo es desarrollar técnicas que permitan a las computadoras aprender. De forma más concreta, se trata de crear programas capaces de generalizar comportamientos a partir de una información no estructurada suministrada en forma de ejemplos. Es, por lo tanto, un proceso de inducción del conocimiento. En muchas ocasiones el campo de actuación del aprendizaje automático se solapa con el de la estadística, ya que las dos disciplinas se basan en el análisis de datos. Sin embargo, el aprendizaje automático se centra más en el estudio de la complejidad computacional de los problemas. Muchos problemas son de clase NP-hard, por lo que gran parte de la investigación realizada en aprendizaje automático está enfocada al diseño de soluciones factibles a esos problemas. El aprendizaje automático puede ser visto como un intento de automatizar algunas partes del método científico mediante métoos matemáticos.El aprendizaje automático tiene una amplia gama de aplicaciones, incluyendo motores de búsqueda, diagnósticos médicos, detección de fraude en el uso de tarjetas de crédito, análisis del mercado de valores, clasificación de secuencias de ADN, reconocimiento del habla y del lenguaje escrito, juegos y robótica.
  
-El profesional de la ciencia de datos también debe tener la capacidad y los conocimientos necesarios para comunicar sus hallazgos a medida que los tiene, no sólo al área de tecnología sino además al sector de los negocios. Debe dominar la tecnología y las bases de datos para modificar y mejorar la orientación de los negocios de la empresa para la que trabaja.
-
-## Curso 1
-
-* [La caja de herramientas del científico de datos](./1. La caja de herramientas del científico de datos/)
-
-## Curso 2
-
-* [Programacion en R](./2. Programacion en R/)
-Se explica las cosas basicas sobre la Programacion de Datos y sobre programacion Estructurada
-
-## Curso 3
-
-* [Obtención y limpieza de datos](./3. Obtención y limpieza de datos/)
-En este curso se trata de limpiza de Datos para Hacerlos mas claro
-
-## Curso 4
-
