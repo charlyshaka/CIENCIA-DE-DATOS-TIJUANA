@@ -1,5 +1,7 @@
 ﻿# Grupo de Cientifico de Datos ENKI
 
+#GRUPO DE ESTUDIO 
+
 ##¿QUÉ ES UN CIENTÍFICO DE DATOS Y QUÉ HABILIDADES REQUIERE LA PROFESIÓN?
 
  
@@ -30,4 +32,3 @@ Se explica las cosas basicas sobre la Programacion de Datos y sobre programacion
 En este curso se trata de limpiza de Datos para Hacerlos mas claro
 
 ## Curso 4
-
