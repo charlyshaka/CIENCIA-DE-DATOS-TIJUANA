@@ -1,2 +1,0 @@
-﻿# Modelos de Regresion Lineal
-
