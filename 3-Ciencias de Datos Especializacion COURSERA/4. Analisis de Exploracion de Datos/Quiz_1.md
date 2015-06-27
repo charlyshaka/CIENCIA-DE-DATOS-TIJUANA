@@ -1,9 +1,6 @@
-Quiz 1
+#Quiz 1
 ======
 
-|Attempts|Score|
-|--------|-----|
-|     2/3|10/10|
 
 Question 1
 ----------
@@ -84,7 +81,7 @@ What does the 'pch' option to par() control?
 
 Question 10
 -----------
->If I want to save a plot to a PDF file, which of the following is a correct way of doing that?
+If I want to save a plot to a PDF file, which of the following is a correct way of doing that?
 
 ### Answer
-Construct the plot on the screen device and then copy it to a PDF file with dev.copy2pdf()
+>Construct the plot on the screen device and then copy it to a PDF file with dev.copy2pdf()
