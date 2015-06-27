@@ -11,3 +11,11 @@ de varios paquetes de R
 > Fue creado por el estadistico John Tukey.
 
 >Se basa principalmente en dos criterios: Las estadisticas de resumen y la visualizacion de datos.
+
+##Algunas Paginas de Apoyo
+
+[Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu/)
+[Download R](http://www.r-project.org/)
+[RStudio](http://www.rstudio.com/)
+
+
