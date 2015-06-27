@@ -16,7 +16,53 @@ Se explica las cosas basicas sobre la Programacion de Datos y sobre programacion
 ## Curso 3
 
 * [Obtención y limpieza de datos](./3. Obtención y limpieza de datos/)
-En este curso se trata de limpiza de Datos para Hacerlos mas claro
+En este curso se trata de limpizea de Datos para Hacerlos mas claro
 
 ## Curso 4
 
+* [Analisis de Exploracion de Datos](./4. Analisis de Exploracion de Datos/)
+En este curso se trata de limpizea de Datos para Hacerlos mas claro
+
+## Curso 5
+
+* [Investigación Reproducible](./5. Investigación Reproducible)
+Este curso de trata del procedimiento mas correcto ala hora de realizar un reproduccion de la investigacion,
+
+## Curso 5
+
+* [Investigación Reproducible](./5. Investigación Reproducible)
+Este curso de trata del procedimiento mas correcto ala hora de realizar un reproduccion de la investigacion,
+
+
+## Curso 4
+
+* [Analisis de Exploracion de Datos](./4. Analisis de Exploracion de Datos/)
+En este curso se trata de limpizea de Datos para Hacerlos mas claro
+
+## Curso 5
+
+* [Investigación Reproducible](./5. Investigación Reproducible)
+Este curso de trata del procedimiento mas correcto ala hora de realizar un reproduccion de la investigacion,
+
+## Curso 6
+
+* [Estadistica Inferencial](./6. Estadistica Inferencial)
+
+## Curso 7
+
+* [Modelos de Regresion](./7. Modelos de Regresion/)
+En este curso se trata de los diferente metodos de Regresion, dependiendo de las Distribuciones. 
+
+## Curso 8
+
+* [Aprendizaje Automatico en la Practica](./8. Aprendizaje Automatico en la Practica/)
+
+
+
+
+##Algunos software Requeridos para R-Data Scientist
+
+[Download R](http://www.r-project.org/)
+
+
+[RStudio](http://www.rstudio.com/)
